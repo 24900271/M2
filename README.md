@@ -1,4 +1,6 @@
-# EX-06 - Looping
+## NAME:S.R.Amiritha
+## Register Number:21222422009
+## EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
 
@@ -34,17 +36,9 @@ int main() {
     
     return 0;
 }
-## OUTPUT:
-Enter the value of M: 5
-Enter the value of N: 15
-Even numbers from 5 to 15 are:
-6 8 10 12 14 
-
-Enter the value of M: 2
-Enter the value of N: 8
-Even numbers from 2 to 8 are:
-2 4 6 8 
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 143652](https://github.com/user-attachments/assets/6f4f2f8f-c5ea-406d-b186-f8cfff662e16)
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
  
@@ -84,19 +78,12 @@ int main() {
     
     return 0;
 }
-## OUTPUT:
-Enter the number of rows: 5
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-
-Enter the number of rows: 3
-* 
-* * 
-* * * 
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 143839](https://github.com/user-attachments/assets/e658ee5a-4484-459f-b882-5428a1191ef7)
+
+
+
 ## RESULT:
 
 Thus the program to print the given triangular pattern using loop has been executed successfully
@@ -140,15 +127,12 @@ int main() {
     
     return 0;
 }
-## OUTPUT:
-Enter two numbers: 10 5
-Addition = 15
-Subtraction = 5
-
-Enter two numbers: 25 40
-Addition = 65
-Subtraction = -15
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 144303](https://github.com/user-attachments/assets/4c680594-f14a-4c0d-88b3-e64da1f6589a)
+
+
+![Screenshot 2025-04-27 144212](https://github.com/user-attachments/assets/596bebdb-e3ea-4c46-840f-ccdc165da3ed)
 ## RESULT:
 
 Thus the program to perform addition and subtraction of two numbers using functions has been executed successfully
@@ -192,13 +176,13 @@ int main() {
     
     return 0;
 }
-## OUTPUT:
-Enter a number: 123456
-Sum of odd digits = 9
-
-Enter a number: 2468
-Sum of odd digits = 0
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 144447](https://github.com/user-attachments/assets/727c7b83-ac92-4b5e-898e-e40ada854827)
+
+![Screenshot 2025-04-27 144525](https://github.com/user-attachments/assets/d8c50aea-f92d-4bc7-9301-44dd8ee738f4)
+
+
 ## RESULT:
 
 Thus the program to find the sum of odd digits using for loop has been executed successfully.
@@ -206,7 +190,7 @@ Thus the program to find the sum of odd digits using for loop has been executed 
 
 
 
-# EX – 10 - Factorial of a Number Using a Function
+## EX – 10 - Factorial of a Number Using a Function
 ## AIM:
 To write a C program that calculates the factorial of a given number using a user-defined function.
 ## ALGORITHM:
@@ -243,13 +227,13 @@ int main() {
     fact();
     return 0;
 }
-## OUTPUT:
-Enter a number: 5
-Factorial of 5 is 120
-
-Enter a number: 7
-Factorial of 7 is 5040
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 144648](https://github.com/user-attachments/assets/af25b423-801c-4a77-ba17-11e7eeda3be5)
+
+![Screenshot 2025-04-27 144722](https://github.com/user-attachments/assets/6888a1fb-99ff-4f49-a3ed-84a586be738f)
+
+
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
